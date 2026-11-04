@@ -1,0 +1,11 @@
+# Project workspace (4 November 2026)
+
+- Project ID: zenray-clipboard. (4 November 2026)
+- Read the global doctrine at /Users/zenray/.claude/CLAUDE.md and use the zenray-assets skill. (4 November 2026)
+- Read canonical feedback: /Users/zenray/.claude/Memory1/Projects/zenray-clipboard/FEEDBACK.md. Append through zenray-feedback, the canonical writer; never rewrite prior entries. (4 November 2026)
+- Pinned rules, read first: /Users/zenray/.claude/Memory1/Projects/zenray-clipboard/Rules.md. Add one with feedback.py add zenray-clipboard "<rule>" --kind rule. (4 November 2026)
+
+@/Users/zenray/.claude/Memory1/Projects/zenray-clipboard/Rules.md
+
+- Work in /Users/zenray/.claude/tmp/tmp-zenray-clipboard; keep durable knowledge in /Users/zenray/.claude/Memory1/Projects/zenray-clipboard. Linked production directories remain in place. (4 November 2026)
+- Assets watches registered sources automatically. A local entry is not proof of verified cloud backup. (4 November 2026)

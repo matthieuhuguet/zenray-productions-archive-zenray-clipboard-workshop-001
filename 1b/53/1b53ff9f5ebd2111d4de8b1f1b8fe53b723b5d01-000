@@ -1,0 +1,113 @@
+{
+  "projectId": "zenray-clipboard",
+  "name": "ZenRay Clipboard",
+  "updatedAt": "2026-11-04T01:16:45+01:00",
+  "articlePath": "/Users/zenray/.claude/tmp/tmp-zenray-clipboard/Articles/index.html",
+  "totalFilesMapped": 13,
+  "files": [
+    {
+      "fileId": "workshop:Articles/diagram-memory-1080p.png",
+      "relativePath": "Articles/diagram-memory-1080p.png",
+      "localPath": "/Users/zenray/.claude/tmp/tmp-zenray-clipboard/Articles/diagram-memory-1080p.png",
+      "bytes": 395034,
+      "sha256": "909c4e4c8ebe1f0cebcf121a12777105da8e003cb067a091662dd7fdc18ed26b",
+      "role": "diagram-1080p"
+    },
+    {
+      "fileId": "workshop:Articles/diagram-swap-1080p.png",
+      "relativePath": "Articles/diagram-swap-1080p.png",
+      "localPath": "/Users/zenray/.claude/tmp/tmp-zenray-clipboard/Articles/diagram-swap-1080p.png",
+      "bytes": 448367,
+      "sha256": "6f07c8e351e7e62e5d41b4dc88b8a988d5a177999859dd8541711d5956f080bc",
+      "role": "diagram-1080p"
+    },
+    {
+      "fileId": "workshop:Articles/index.html",
+      "relativePath": "Articles/index.html",
+      "localPath": "/Users/zenray/.claude/tmp/tmp-zenray-clipboard/Articles/index.html",
+      "bytes": 1405533,
+      "sha256": "8de93e473f84bdcb123ca6aff706aec8ec6bfbb4ffb6d42ed8decaba9689a6d0",
+      "role": "synthesis-html"
+    },
+    {
+      "fileId": "workshop:Articles/thumb-data-url.txt",
+      "relativePath": "Articles/thumb-data-url.txt",
+      "localPath": "/Users/zenray/.claude/tmp/tmp-zenray-clipboard/Articles/thumb-data-url.txt",
+      "bytes": 56631,
+      "sha256": "db124e6192147b7f851f9cb6bc80084ae932a6da8822cfada290d52430cf936a",
+      "role": "project-file"
+    },
+    {
+      "fileId": "workshop:Synthesis.html",
+      "relativePath": "Synthesis.html",
+      "localPath": "/Users/zenray/.claude/tmp/tmp-zenray-clipboard/Synthesis.html",
+      "bytes": 1405533,
+      "sha256": "8de93e473f84bdcb123ca6aff706aec8ec6bfbb4ffb6d42ed8decaba9689a6d0",
+      "role": "synthesis-html"
+    },
+    {
+      "fileId": "workshop:index.html",
+      "relativePath": "index.html",
+      "localPath": "/Users/zenray/.claude/tmp/tmp-zenray-clipboard/index.html",
+      "bytes": 1405533,
+      "sha256": "8de93e473f84bdcb123ca6aff706aec8ec6bfbb4ffb6d42ed8decaba9689a6d0",
+      "role": "synthesis-html"
+    },
+    {
+      "fileId": "project-notes:FEEDBACK.md",
+      "relativePath": "FEEDBACK.md",
+      "localPath": "/Users/zenray/.claude/Memory1/Projects/zenray-clipboard/FEEDBACK.md",
+      "bytes": 459,
+      "sha256": "a57ac2065ce1f667ab818c51995f5adcfb44cbb197fee5d979a8becb1f52dec4",
+      "role": "project-file"
+    },
+    {
+      "fileId": "project-notes:FileMap.md",
+      "relativePath": "FileMap.md",
+      "localPath": "/Users/zenray/.claude/Memory1/Projects/zenray-clipboard/FileMap.md",
+      "bytes": 1385,
+      "sha256": "3fd5f32e4dc300863b25901853b930565cacda887de6e23c11ce60040a02b36d",
+      "role": "project-file"
+    },
+    {
+      "fileId": "project-notes:Project.json",
+      "relativePath": "Project.json",
+      "localPath": "/Users/zenray/.claude/Memory1/Projects/zenray-clipboard/Project.json",
+      "bytes": 551,
+      "sha256": "c12aa8f409f52468728a624e4bd0a0f31adf69316f27c153ad600b45c3dddbb2",
+      "role": "project-file"
+    },
+    {
+      "fileId": "project-notes:Project1.md",
+      "relativePath": "Project1.md",
+      "localPath": "/Users/zenray/.claude/Memory1/Projects/zenray-clipboard/Project1.md",
+      "bytes": 314,
+      "sha256": "6616294af75a99ed8fbf93302ac60d3c7c07bba557c6666cef2c8fa055be0271",
+      "role": "project-file"
+    },
+    {
+      "fileId": "project-notes:Rules.md",
+      "relativePath": "Rules.md",
+      "localPath": "/Users/zenray/.claude/Memory1/Projects/zenray-clipboard/Rules.md",
+      "bytes": 274,
+      "sha256": "e509a2089418206630106e3fbb4c65c903e2c1db3b02acd152ddb4ece62429c4",
+      "role": "project-file"
+    },
+    {
+      "fileId": "project-notes:Synthesis.html",
+      "relativePath": "Synthesis.html",
+      "localPath": "/Users/zenray/.claude/Memory1/Projects/zenray-clipboard/Synthesis.html",
+      "bytes": 1405533,
+      "sha256": "8de93e473f84bdcb123ca6aff706aec8ec6bfbb4ffb6d42ed8decaba9689a6d0",
+      "role": "synthesis-html"
+    },
+    {
+      "fileId": "project-notes:index.html",
+      "relativePath": "index.html",
+      "localPath": "/Users/zenray/.claude/Memory1/Projects/zenray-clipboard/index.html",
+      "bytes": 1405533,
+      "sha256": "8de93e473f84bdcb123ca6aff706aec8ec6bfbb4ffb6d42ed8decaba9689a6d0",
+      "role": "synthesis-html"
+    }
+  ]
+}
